@@ -1,0 +1,9 @@
+.viewport-container {
+	position: relative;
+	display: block;
+	min-height: 100vh;
+}
+
+footer {
+	padding: 1.25rem;
+}
